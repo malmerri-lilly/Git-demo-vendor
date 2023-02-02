@@ -1,3 +1,7 @@
 Test text
 
+<<<<<<< HEAD
 added new line Different again
+=======
+changed this line
+>>>>>>> jessica
